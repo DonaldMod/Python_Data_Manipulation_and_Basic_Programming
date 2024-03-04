@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="base64-encoder-decoder">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="csv-text-escape" id="69028866-c070-407d-9ef2-f750fd9b30e1" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|listVal = [1,2,3,4,5,6,7,8,9]&#10;&#10;for i in listVal:&#10;    print(i)" />
+          <property key="targetText" type="INPUT" value="kotlin.String|&quot;listVal = [1,2,3,4,5,6,7,8,9]&#10;&#10;for i in listVal:&#10;    print(i)&quot;" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="base64-encoder-decoder" id="c8664565-6638-43db-8331-4b3578e22bc7" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|listVal = [1,2,3,4,5,6,7,8,9]&#10;&#10;for i in listVal:&#10;    print(i)" />
+          <property key="targetText" type="INPUT" value="kotlin.String|bGlzdFZhbCA9IFsxLDIsMyw0LDUsNiw3LDgsOV0KCmZvciBpIGluIGxpc3RWYWw6CiAgICBwcmludChpKQ==" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+  </component>
+</project>
